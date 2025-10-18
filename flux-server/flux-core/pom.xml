@@ -16,9 +16,5 @@
             <groupId>com.stellariver</groupId>
             <artifactId>flux-common</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.zendesk</groupId>
-            <artifactId>mysql-binlog-connector-java</artifactId>
-        </dependency>
     </dependencies>
 </project>

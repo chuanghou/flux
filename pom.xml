@@ -14,6 +14,7 @@
     <modules>
         <module>flux-server</module>
         <module>flux-client-java-example</module>
+        <module>flux-server/flux-connector-mysql</module>
     </modules>
 
     <properties>
